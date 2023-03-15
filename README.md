@@ -15,7 +15,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/s1995s1/sos2.git && cd sos2
+git clone https://github.RuslanAstana1988/MT88.git && cd MT88
 ```
 
 ```bash
